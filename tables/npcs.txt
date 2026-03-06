@@ -1,0 +1,77 @@
+new_1-1 53 114 Shion#nv1
+new_1-1 66 114 Bulletin Board#nv
+new_1-1 144 107 Guard#nv2
+new_1-2 100 29 Receptionist#nv1
+new_1-2 99 105 Interfaces Tutor#nv1
+new_1-2 83 111 Skill Tutor#nv
+new_1-2 115 111 Item Tutor#nv
+new_1-2 118 108 Kafra Employee#nv1
+new_1-2 121 101 Guide Soldier#nv1
+new_1-2 17 182 Helper#nv
+new_1-2 38 182 Entrance Guard#nv
+new_1-2 28 185 Potato Merchant
+new_1-3 95 30 Trainer#nv1
+new_1-3 96 174 Test Examiner#nv1
+new_2-3 95 30 Trainer#nv2
+new_3-3 95 30 Trainer#nv3
+new_1-4 93 21 Archer Trainer
+new_1-4 91 18 Acolyte Trainer
+new_1-4 102 21 Merchant Trainer
+new_1-4 97 21 Mage Trainer
+new_1-4 108 18 Thief Trainer
+new_1-4 106 21 Swordman Trainer
+new_1-4 99 29 Maru#tg
+prontera 164 93 Training Ground Warper
+prontera 146 89 Kafra Employee
+prontera 148 49 Bulletin Board#09
+prontera 151 29 Kafra Employee
+prt_fild08 175 374 Bard#brising
+pay_gld 110 233 Bright Arbor#2
+pay_gld 116 233 Bright Arbor#3
+pay_gld 187 294 Bamboo Grove Hill#4
+pay_gld 190 277 Bamboo Grove Hill#3
+pay_gld 199 268 Bamboo Grove Hill#2
+pay_gld 208 268 Bamboo Grove Hill#1-2
+payon 79 171 Friar#G5
+payon 132 235 Monster Scholar#02
+payon 134 211 Young Man#payon
+payon 173 238 Jade#pay
+payon 175 226 Kafra Employee
+pay_arche 79 31 Bulletin Board#07
+pay_arche 85 30 Guide#2pay
+pay_arche 55 123 Kafra Employee
+pay_arche 39 134 Bulletin Board#08
+pay_dun00 34 163 NO18
+pay_dun00 37 152 NO19
+prontera 164 103 Frizone
+pay_dun00 33 105 NO18
+pay_gld 125 236 Bright Arbor#1-2
+prontera 160 29 South Gate-Guide
+payon 162 67 Guide#pay
+payon 174 76 Lucky#payon
+payon 173 82 Young Man#2payon
+payon 181 104 Kafra Employee
+payon 178 108 Bulletin Board#06
+payon 200 134 Merchant#pay
+payon 210 110 Drunkard#payon
+payon 214 79 Talpiz#BLS
+prontera 165 102 Menneek
+prontera 164 102 GogSarce
+prontera 165 101 FuriosM
+payon 91 77 Bag Seller
+payon 103 63 Jason
+prontera 164 101 MININUMAU
+payon 186 104 Smile Assistance#pay
+prontera 168 124 Flickflick
+prontera 172 124 NOVA MD Equipment#nova_
+prontera 176 124 NOVA MD Land Stone#nova
+prontera 164 125 Kafra Voting Staff#prt
+prontera 180 124 NOVA MD Costume#nova_c
+prontera 184 124 NOVA MD Pet#nova_p
+prontera 189 125 Aver De Dosh#cos_ect
+prontera 192 125 Lace La Zard#cos_ect
+prontera 195 125 BlackSmith#EquipmentEnc
+prontera 248 153 Doll Supplier#prt
+prontera 282 200 Kafra Employee
+prontera 282 208 East Gate-Guide
+pay_fild08 218 283 Mysterious Man#magum
